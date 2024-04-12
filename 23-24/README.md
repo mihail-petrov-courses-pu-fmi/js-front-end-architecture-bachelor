@@ -35,7 +35,7 @@
                 <sub>📅12.04.2024</sub>
             </td>
             <td>
-                <a href="./meet-01/README.md">
+                <a href="./@meets/meet-01/README.md">
                     Основи на Angular и FE рамките
                 </a>
             </td>
